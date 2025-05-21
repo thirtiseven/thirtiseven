@@ -7,8 +7,9 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=thirtiseven) -->
 
-| ![github stats](https://github-readme-stats.vercel.app/api?username=thirtiseven&show_icons=true&count_private=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirtiseven&layout=compact&hide=html&hide_border=true) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=thirtiseven&show_icons=true&count_private=true&hide_border=true) | ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thirtiseven&layout=compact&langs_count=10) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 
 <!--
 **thirtiseven/thirtiseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
