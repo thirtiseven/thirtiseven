@@ -10,9 +10,6 @@
 <!-- 
 | ![github stats](https://github-readme-stats.vercel.app/api?username=thirtiseven&show_icons=true&count_private=true&hide_border=true) | ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thirtiseven&layout=compact&langs_count=10) |  -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=thirtiseven&show_icons=true&count_private=true&hide_border=true)
-
-
 <!--
 **thirtiseven/thirtiseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
